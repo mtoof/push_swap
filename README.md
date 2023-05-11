@@ -29,6 +29,8 @@ it that can't be executed won't.
 | `rrb` | reverse rotate b                    | shifts all elements of stack b from top to bottom      |
 | `rrr` | reverse rotate a + reverse rotate b | both `rra` and `rrb`                                   |
 
+If you're gonna use radix algorithm you just need to use 'sa' 'pa' 'pb' 'ra' and 'rra'
+
 ## Algorithm
 
 For the stacks with size 5 or less I wrote a simple sort which can be found in the src folder.
