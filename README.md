@@ -117,7 +117,8 @@ Note that you do not have to read the books completly but you will find a lot of
 
 Books
 
-- [Algorithms]
+- [Algorithms](https://github.com/mtoof/push_swap/files/11451628/Aditya.Bhargava.-.Grokking.Algorithms_.An.illustrated.guide.for.programmers.and.other.curious.people-Manning.Publications.2016.pdf)
+
 
 Links
 
