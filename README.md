@@ -31,7 +31,7 @@ it that can't be executed won't.
 
 ## Algorithm
 
-For the stacks with size less than 6 I wrote a simple sort which can be found in the src folder.
+For the stacks with size 5 or less I wrote a simple sort which can be found in the src folder.
 
 In this project I used `Radix` sort as the main algorithm. `Radix` sort is an efficient algorithm to sort non-negative integers
 with time complexity O (n). For example, we can sort following list of integers with this algorithm
@@ -99,16 +99,7 @@ My push_swap sorts
     100 numbers with maximum 1084 instructions => 3 points,
     500 numbers with maximum 6785 instructions => 4 points.
 
-The algorith is good enought to pass the project. If the Bonus part is also done the project could get more than 105%.
-
-### Bonus
-
-The bonus part is to write a program named checker, which will get as an argument the stack A formatted as a list of integers. Checker will then wait and read instructions on the standard input. Once all the instructions have been read, checker will execute them on the stack received as an argument (After giving the instructions press ctrl + d).
-
-If after executing those instructions, stack a is actually sorted and b is empty, then
-checker must display "OK" else "KO". If checker arguments are invalid it displays Error.
-
-The checker code can be found in the checker.c file in this repository.
+The algorithm is good enought to pass the project. If the Bonus part is also done the project could get more than 105%.
 
 ## Resources 
 
