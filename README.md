@@ -1,14 +1,9 @@
 # push_swap
 This project aims to sort data(Integer numbers) on a stack, with a limited set of instructions, using the lowest possible number of actions.
-# 42 Push_Swap
 
-Because swap_push isn't as natural
-
-Given a set of integers, sort it using a predefined set of instructions using
-two stacks. The instruction set is defined below. This program outputs a program
+# Push_Swap
+Given a set of integers, sort it using a predefined set of instructions using two stacks. The instruction set is defined below. This program outputs a program
 in push_swap instructions that sorts the input integers.
-
-> ⚠️ **Warning**: Don't copy/paste anything you don't understand: it's bad for you, and for the school.
 
 ## Instruction set
 
